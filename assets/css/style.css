@@ -1,0 +1,11 @@
+main {
+    display: flex;
+        justify-content: center;
+        width: 100vw;
+}
+
+#form1 {
+    width: 90vw;
+    justify-content: center;
+
+}
